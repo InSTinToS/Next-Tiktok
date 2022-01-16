@@ -39,7 +39,7 @@ const Post = ({ post }: Props) => {
     }
   }
 
-  return post ? (
+  return post && post.author ? (
     <Container>
       <Header>
         <PersonWrapper>
