@@ -32,7 +32,7 @@ const Sidebar = () => (
           name: 'Will Smith',
           username: 'willsmith',
           avatar:
-            'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1646315618666501~c5_100x100.jpeg?x-expires=1642428000&x-signature=Kzqy67HnkcKBC5Aas8HOlZs4DA8%3D'
+            'https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1646315618666501~c5_100x100.jpeg?x-expires=1660946400&x-signature=%2FR7B0gBjzPdI7g9VCZMdpUeel80%3D'
         }}
       />
 
